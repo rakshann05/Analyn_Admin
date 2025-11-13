@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525036801067",
+    "project_id": "software-project-d2dd6",
+    "storage_bucket": "software-project-d2dd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525036801067:android:d1cb94e0e12dff63d7ee6e",
+        "android_client_info": {
+          "package_name": "com.example.analyn_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzy3QCFXrlM_-ZxkZej55PQCnw2QLg7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525036801067:android:6aaca47f331db46ad7ee6e",
+        "android_client_info": {
+          "package_name": "com.example.ji"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzy3QCFXrlM_-ZxkZej55PQCnw2QLg7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
