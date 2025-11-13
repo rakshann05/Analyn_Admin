@@ -10,21 +10,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  # ---- Your Firebase versions (good ones) ----
-  firebase_core: ^2.28.0
-  firebase_auth: ^4.0.0
-  cloud_firestore: ^4.0.0
-  firebase_storage: ^11.0.0
-  firebase_messaging: ^14.7.10
-  # --------------------------------------------
-
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+  cloud_firestore: ^5.5.0
+  firebase_storage: ^12.3.6
+  firebase_messaging: 15.2.10
   google_fonts: ^6.2.1
   provider: ^6.1.2
   file_picker: ^8.0.7
   cupertino_icons: ^1.0.8
 
-  # ✅ Additional helper libraries used in code I sent:
   url_launcher: ^6.3.1
   geolocator: ^13.0.1
   flutter_blue_plus: ^1.35.5
